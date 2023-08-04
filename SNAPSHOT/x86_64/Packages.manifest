@@ -1,0 +1,34 @@
+Package: far2l-tiny
+Version: 2.5.1+git20230802
+Depends: libc, libstdcpp6
+Source: package/far2l
+SourceName: far2l-tiny
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1691081460
+Architecture: x86_64
+Installed-Size: 1401100
+Filename: far2l-tiny_2.5.1+git20230802_x86_64.ipk
+Size: 1397829
+SHA256sum: b3db64f5604696befee665866693b54c3043e565cf0ce909b9fae33858036076
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+ .
+ Minimal version
+
+Package: far2l
+Version: 2.5.1+git20230802
+Depends: libc, libstdcpp6
+Source: package/far2l
+SourceName: far2l
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1691081460
+Architecture: x86_64
+Installed-Size: 2617651
+Filename: far2l_2.5.1+git20230802_x86_64.ipk
+Size: 2614273
+SHA256sum: 8779a024053dc5a83835daa94ae60942ff7bdb817d07d651303f544f03d78ca4
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+
