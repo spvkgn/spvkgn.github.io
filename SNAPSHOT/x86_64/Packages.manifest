@@ -16,3 +16,19 @@ Description:  Linux port of FAR Manager v2 (http://farmanager.com)
  .
  Build with no plugins, only english language
 
+Package: far2l
+Version: 2.5.1+git20230804
+Depends: libc, libstdcpp6, libarchive-noopenssl, libpcre
+Source: package/far2l
+SourceName: far2l
+License: GPL-2
+LicenseFiles: LICENSE.txt
+Section: utils
+SourceDateEpoch: 1691438577
+Architecture: x86_64
+Installed-Size: 2645438
+Filename: far2l_2.5.1+git20230804_x86_64.ipk
+Size: 2641527
+SHA256sum: ff18deb5b86eb1192d88c361889dcaed70063ba598530152d89940dd050bc060
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+
