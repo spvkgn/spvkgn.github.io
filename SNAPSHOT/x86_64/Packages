@@ -4,11 +4,23 @@ Depends: libc, libstdcpp6
 License: GPL-2
 Section: utils
 Architecture: x86_64
-Installed-Size: 1401269
+Installed-Size: 1401353
 Filename: far2l-tiny_2.5.1+git20230804_x86_64.ipk
-Size: 1398082
-SHA256sum: ab3535f6e399e634ec679f2f09ededd4d7d0d98263d75cd34204036303e7079a
+Size: 1398126
+SHA256sum: d69e481ab133b599e57a40f28162e3bbc5fd3e575d59eeeeea544096390ede85
 Description:  Linux port of FAR Manager v2 (http://farmanager.com)
  .
- Minimal version with no plugins, only english language
+ Build with no plugins, only english language
+
+Package: far2l
+Version: 2.5.1+git20230804
+Depends: libc, libstdcpp6, libpcre
+License: GPL-2
+Section: utils
+Architecture: x86_64
+Installed-Size: 2622021
+Filename: far2l_2.5.1+git20230804_x86_64.ipk
+Size: 2618593
+SHA256sum: b69a664b206c43baa14cae14418f5bc26f6ce1e8307cc4caf0c8e86df2b30f30
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
 
