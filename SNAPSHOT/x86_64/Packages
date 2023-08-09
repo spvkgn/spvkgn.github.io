@@ -1,3 +1,17 @@
+Package: far2l-full
+Version: 2.5.1+git20230804
+Depends: libc, libstdcpp6, libarchive-noopenssl, libneon, libpcre, libssh
+License: GPL-2
+Section: utils
+Architecture: x86_64
+Installed-Size: 3084707
+Filename: far2l-full_2.5.1+git20230804_x86_64.ipk
+Size: 3081118
+SHA256sum: a8e144d2c2c31326437f278a1f726852cffdf9b006289339ee4e35bff02c836a
+Description:  Linux port of FAR Manager v2 (http://farmanager.com)
+ .
+ Build with NetRocks plugin
+
 Package: far2l-tiny
 Version: 2.5.1+git20230804
 Depends: libc, libstdcpp6
